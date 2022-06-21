@@ -1,9 +1,9 @@
-# Getting Started with Create React App
+# Backend exam client
 
 Follow these steps to run this frontend react-app
 
--npm install
--npm run start
+### npm install
+### npm run start
 
-username: admin
+username: admin /
 password: admin
